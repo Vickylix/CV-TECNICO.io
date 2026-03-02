@@ -2,7 +2,7 @@
 Este proyecto es un CV tecnido usando HTML Y CSS.
 
 ## Descripcion 
-Se trata de una pagina web simple donde presento mi perfil profesional, tegnologias que se usar y proyectos propios.
+Se trata de una pagina web simple donde presento mi perfil profesional, tecnologias que se usar y proyectos propios.
 
 ## Tecnologias utilizadas
 * HTML
