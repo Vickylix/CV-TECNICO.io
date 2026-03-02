@@ -13,6 +13,6 @@ Se trata de una pagina web simple donde presento mi perfil profesional, tegnolog
 * Lista de proyectos de mi autoria, donde muestro mis conocimientos con enlaces
 * Informacion de contacto
 ## Ver online
-
+https://vickylix.github.io/CV-TECNICO.io/
 ## Autor
 Victor Manuel Marquina Pilares
